@@ -1,0 +1,16 @@
+{
+  "ios": {
+    "release": {
+      "codeSignIdentity": "iPhone Distribution: Bison Transport Inc (749K37FJGW)",
+      "developmentTeam": "749K37FJGW",
+      "packageType": "app-store",
+      "provisioningProfile": "9d887194-23f8-4e26-9106-676356785c8d"
+    },
+    "debug": {
+      "codeSignIdentity": "Apple Development: Chris Friesen (467775599U)",
+      "developmentTeam": "749K37FJGW",
+      "packageType": "development",
+      "provisioningProfile": "5ffd531f-f46f-43c1-ba50-03912450f10f"
+    }
+  }
+}

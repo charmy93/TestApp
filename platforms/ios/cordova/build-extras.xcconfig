@@ -1,0 +1,4 @@
+CODE_SIGN_IDENTITY = Apple Development: Chris Friesen (467775599U)
+CODE_SIGN_IDENTITY[sdk=iphoneos*] = Apple Development: Chris Friesen (467775599U)
+PROVISIONING_PROFILE = 5ffd531f-f46f-43c1-ba50-03912450f10f
+DEVELOPMENT_TEAM = 749K37FJGW
