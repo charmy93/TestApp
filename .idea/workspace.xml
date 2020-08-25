@@ -2,9 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca6c4b-cd4b-4379-8b3d-34ca0c79274c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/img/logo-bison-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/logo-bison-sm.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ios-sim/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ios-sim/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/bin/ios-sim" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ios-sim/bin/ios-sim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/bin/ios-sim.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ios-sim/bin/ios-sim.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/doc/help.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/ios-sim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/.bin/nopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/bplistParser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/test/airplay.bplist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/test/iTunes-small.bplist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/test/parseTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/test/sample1.bplist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/test/sample2.bplist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/test/uid.bplist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/bplist-parser/test/utf16.bplist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/nopt/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/nopt/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/nopt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/nopt/bin/nopt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/nopt/examples/my-program.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/nopt/lib/nopt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/node_modules/nopt/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ios-sim/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/src/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/src/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/src/help.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/src/lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/test/cli.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/test/commands.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/test/fixture/list.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/test/help.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/test/jest.setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ios-sim/test/lib.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/bison.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/bison.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/Assets.car" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/Assets.car" afterDir="false" />
@@ -12,16 +55,30 @@
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/MainViewController.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/MainViewController.nib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/TestApp" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/TestApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/www/cordova_plugins.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/www/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/www/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcarchive/Products/Applications/TestApp.app/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp.xcworkspace/xcuserdata/bison.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp.xcworkspace/xcuserdata/bison.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp/TestApp-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp/TestApp-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/TestApp/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/TestApp/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/ios.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/www/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/www/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/fetch.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/fetch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ios.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/ios.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +98,8 @@
         <counts>
           <entry key="css" value="1" />
           <entry key="d" value="1" />
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
+          <entry key="js" value="2" />
           <entry key="json" value="3" />
           <entry key="png" value="2" />
           <entry key="xml" value="1" />
@@ -50,27 +108,32 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
           <entry key="Image" value="2" />
           <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="29" />
-          <entry key="html" value="40" />
+          <entry key="css" value="113" />
+          <entry key="html" value="559" />
+          <entry key="js" value="910" />
           <entry key="json" value="94" />
-          <entry key="xml" value="18" />
+          <entry key="txt" value="44" />
+          <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="29" />
-          <entry key="HTML" value="40" />
+          <entry key="CSS" value="113" />
+          <entry key="HTML" value="559" />
           <entry key="JSON" value="94" />
-          <entry key="XML" value="18" />
+          <entry key="JavaScript" value="910" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="XML" value="19" />
         </counts>
       </usages-collector>
     </session>
@@ -80,17 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="366">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -98,8 +152,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -107,13 +170,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+            <state relative-caret-position="627">
+              <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -130,8 +200,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/build.json" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/take-picture.html" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/css/index.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
       </list>
@@ -151,13 +223,16 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-camera/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/tests/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1885" />
+    <option name="width" value="1245" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -177,24 +252,19 @@
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,6 +273,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -237,29 +308,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598291208188</updated>
-      <workItem from="1598291209464" duration="5219000" />
+      <workItem from="1598291209464" duration="14957000" />
     </task>
+    <task id="LOCAL-00001" summary="added a landing image of bison in the app">
+      <created>1598300443853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598300443853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5219000" />
+    <option name="totallyTimeSpent" value="14957000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1885" height="977" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1245" height="977" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22693267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.3299435" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.280226" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23163842" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -287,18 +365,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added a landing image of bison in the app" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a landing image of bison in the app" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -322,17 +397,38 @@
     <entry file="file://$PROJECT_DIR$/www/img/logo-bison-lg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/take-picture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+        <state relative-caret-position="627">
+          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

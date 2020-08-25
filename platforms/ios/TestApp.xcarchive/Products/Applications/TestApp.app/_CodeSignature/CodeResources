@@ -14,15 +14,15 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		HI2o9/OTKzQ4CZXNB5lQI908rvE=
+		0GR9c3dEhNzxK/Gn+n1l+mSvtuA=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		9EnE/jNEueCbYo8bWD5Hk4AM7AA=
+		1+hosTcuk+OhZmhjgI/cqHsFrss=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		ZBZOrq08OEjQNSKzdty3NEhHrYo=
+		coEcRZQYljh0TnmsU1QJ4JXNjVw=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		gaVZomgMI2HJlwuP2B0DByXFbqw=
+		ekS4cMvhv4YkC5Vd0jbtf4PXMAs=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		ICiceHmRcVAxo2pNYqjD+Ufmhuk=
+		WZLUUoeXX6L73xr4AAj4wg4uoPw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GZyQXnHxh2Zn60H3/IfQFfbqSbw=
+		IhS53a4YFDWC6tRpSuE7BvkFpJ8=
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		OyXMlNoZ/T5+quzOBkdWJ+qvZaA=
+		H55izXOnH/lqWAHh8A4nrjexmbA=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		oWxIoo87xVfHvu6SizCx566Lq8k=
+		VXrbQl9VFhbW4zcYBNA+J4irVoU=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		Xa1C7G5a0Y77UXrfrNt/v2EE+UU=
+		rIDi4CX9PH9DqXxodV0aqab2zJ8=
 		</data>
 		<key>www/css/index.css</key>
 		<data>
@@ -96,17 +96,37 @@
 		<data>
 		qYZC3/zA9bcP0kjZkCAvK+zPcC4=
 		</data>
+		<key>www/img/logo-bison-sm.png</key>
+		<data>
+		zs2iEiulLHv+Nyejv0Ym2Ui+WiE=
+		</data>
 		<key>www/img/logo.png</key>
 		<data>
 		MW0GF0+VJyF3L6n2kH6NKUswUL0=
 		</data>
 		<key>www/index.html</key>
 		<data>
-		3HHzB3lp6I4Tm/1ewtrgXFwQP/k=
+		dzm3I8uozVCaWTCgBn0J7N1UiU0=
 		</data>
 		<key>www/js/index.js</key>
 		<data>
-		VvGJtlwxe7yThwm8W/ULK665sIQ=
+		PiWARfcHw+95AbTiBJnXTe2Ifbc=
+		</data>
+		<key>www/plugins/cordova-plugin-camera/www/Camera.js</key>
+		<data>
+		/Tl12sGFo/UZbPqnupaaV0Hg0vU=
+		</data>
+		<key>www/plugins/cordova-plugin-camera/www/CameraConstants.js</key>
+		<data>
+		v2sA7ZeHf4g2R4hremuTEjIZPUY=
+		</data>
+		<key>www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js</key>
+		<data>
+		wTQFdVOfKqX3vn6PORCY2efMoco=
+		</data>
+		<key>www/plugins/cordova-plugin-camera/www/ios/CameraPopoverHandle.js</key>
+		<data>
+		klVdUvQMHVb41kGOdzmd60/NvpM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -129,21 +149,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q/sjFtvCC6q/TgzAgAaYTUAJZU7Pf3Qs4g+FgEbzAAY=
+			JbBcUo1SU6oPy4Pqaf6IeWCG8z78sEfA3BMq+PDLemA=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U6WtOSEKFc97iqBC7HZ42ni9dAn5bFb1Ywy9Fu9/iK4=
+			XnOXyOveKrbRrkAs0VPqxf117NnCYFZzuYOW4PpKpr8=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oo22ZtJFo4y1LV+9FaAGPy0/SIUfUCNYaxaX/GT4HHo=
+			Vs5GoA1DAl/pPKmXCMXmiH1F2IHclSlKNVpn2afmSVo=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -157,28 +177,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qh+MU9BUdEDfoDeOu44+Y9bokAgAC4bKHM9WjSWd/CM=
+			j5dyvdop7R1J/PkVt9y7XKukGPeWtq/EdlVwMPJ/J3g=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KByldtuYM/1R29kJ0azMsMsk7jqREYLYix1Tc5BYN80=
+			3sSdEyMll1NurOLPoruw7qVtckAOW6PhzbBjguC49bM=
 			</data>
 		</dict>
 		<key>MainViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BE+g3wobbDMy2i64jM17BMg8Wnji17rXaAPv9t4Ihfk=
+			Hv7cLlxDV48XOsb2p514Itn7PR1yoe8h3eVdouBm2xo=
 			</data>
 		</dict>
 		<key>config.xml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHYkKX1YBTG0ILbKqNmk7ML3YPjQB4R7qzyGlXsbesY=
+			ncgwgAw1bh8DVh8h1bu0MNsh8ixmWwfgf4Yiwc23fzY=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -241,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yn+XToItUchBL48/85bSopZsWigiIUQo+OJmvZbfyag=
+			MbKZTizLgLFrPAcFnwuSGaQEqRuyAZxvvQTbk2WCR0Q=
 			</data>
 		</dict>
 		<key>www/css/index.css</key>
@@ -258,6 +278,13 @@
 			Qbuh5PRtQIPD+q3BJtLGAo3gC9AABTa/alSKJa/Gj54=
 			</data>
 		</dict>
+		<key>www/img/logo-bison-sm.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nLAupBhKEoIprJoH+m7/N0NsxEJuvlzrztIURj6LWD0=
+			</data>
+		</dict>
 		<key>www/img/logo.png</key>
 		<dict>
 			<key>hash2</key>
@@ -269,14 +296,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wZv3pGOGEuAqpHkjn9ALlzxoLAQeHQAW5dZ3Hlyh8hQ=
+			P9PoAsmi1wGXXrjIp/vf7cNykoo+qa5eUrqLfeVrsYc=
 			</data>
 		</dict>
 		<key>www/js/index.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			shx4WO5iFkV9duAxUT81Zp+LfaixN2PdjQT2qsZzkQw=
+			m8BM3lQg2JFNNztz95jW5wAGqxm1QKJb9F39NCJqqHI=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-camera/www/Camera.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/DpMZq7FrbVwiAPbYjr190ea8NHGPLsnbwbi8KjR3Ws=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-camera/www/CameraConstants.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wkl+aO8lHNbXrlvHUVFvZ3XWmxJ5kE3QH9Cb1DKW2i4=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fdqZsJujAwBDlyouy92pz8RsdJ2X+YvLd3nhcqDLQbk=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-camera/www/ios/CameraPopoverHandle.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BcERNLubkSvA0VEqvXDTkx35wRr2EPf6Uqtgik7XPe4=
 			</data>
 		</dict>
 	</dict>

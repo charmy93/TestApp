@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.example.test"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.bisontransport.test"
     }
   },
   "dependent_plugins": {}

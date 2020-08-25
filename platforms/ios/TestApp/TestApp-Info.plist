@@ -50,5 +50,15 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Used for scanning and uploading images</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Used for scanning and uploading images</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Used for scanning and uploading images</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Used by the app for determining the location of a user at each stop when the user clicks arrived</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Used by the app for determining the location of a user at each stop when the user clicks arrived</string>
 </dict>
 </plist>
